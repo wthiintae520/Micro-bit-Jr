@@ -1,0 +1,86 @@
+.Infopage {
+    text-align: center;
+  }
+  
+  .Info-logo {
+    height: 20vmin;
+    pointer-events: none;
+  }
+  
+  /* @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  } */
+  .introduction {
+    background-color: #f5f2eff9;
+    min-height: 20vh;
+    width: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(35, 2, 2);
+  
+  }
+  .step1 {
+    background-color: #f5f2eff9;
+    min-height: 10vh;
+    width: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(35, 2, 2);
+    
+  }
+  .step2 {
+    background-color: #f5f2eff9;
+    min-height: 10vh;
+    width: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(35, 2, 2);
+    
+  }
+  .step3 {
+    background-color: #f5f2eff9;
+    min-height: 10vh;
+    width: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(35, 2, 2);
+    
+  }
+  .Info-header {
+    background-color: #3c455ff9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .Info-link {
+    color: #350dc7;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  

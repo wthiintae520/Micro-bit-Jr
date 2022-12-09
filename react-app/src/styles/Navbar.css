@@ -1,0 +1,42 @@
+nav {
+  padding: 0 1rem;
+  background-color: var(--color1);
+  transition: background-color 250ms ease-in-out;
+}
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  padding: 0.75rem 0.25rem;
+  color: var(--color2);
+  transition: color 250ms ease-in-out;
+}
+nav li:hover {
+  color: var(--color3);
+}
+nav li:first-child {
+  margin-right: auto;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--color2);
+  transition: color 250ms ease-in-out;
+}
+nav a:hover {
+  color: var(--color3);
+}
+nav svg {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+nav li.theme svg {
+  cursor: pointer;
+}

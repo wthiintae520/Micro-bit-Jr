@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="229" height="105" viewBox="0 0 229 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 2.095 50.916 C 2.095 72.416 18.066 71.416 18.066 81.916 L 18.066 97.416 C 18.066 103.916 30.507 101.986 34.037 102.416 L 211.124 102.416 C 214.654 101.986 227.095 103.916 227.095 97.416 L 227.095 81.916 C 227.095 71.416 211.124 72.416 211.124 50.916 C 211.124 29.416 227.095 31.916 227.095 20.916 L 227.095 7.416 C 227.095 0.916 211.081 2.266 211.081 2.266 L 34.08 2.266 C 27.559 2.266 18.066 0.916 18.066 7.416 L 18.066 20.916 C 18.066 31.916 2.095 29.416 2.095 50.916 Z" fill="#00FF50" stroke="#C2AF00" stroke-opacity="0.66" stroke-width="4"/>
+  <rect x="147.592" y="28" width="52.408" height="50" rx="10" fill="#D9D9D9" style=""/>
+  <rect x="48.673" y="28" width="52.408" height="50" rx="10" fill="#D9D9D9" style=""/>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 2.7px; paint-order: fill; white-space: pre;" x="106.733" y="38.447" dx="14.866" dy="17.249">+</text>
+  <rect x="110.355" y="50.169" width="27.922" height="6.576" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+</svg>

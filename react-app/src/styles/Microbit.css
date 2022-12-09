@@ -1,0 +1,5 @@
+.microbit {
+  flex: 1;
+  background-color: var(--backgroundColor);
+  transition: background-color 250ms ease-in-out;
+}

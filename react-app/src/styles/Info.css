@@ -1,0 +1,40 @@
+div.info {
+  color: var(--textColor);
+  background-color: var(--backgroundColor);
+  transition: background-color color 250ms ease-in-out;
+}
+
+.steps {
+  color: var(--textColor);
+  transition: color 250ms ease-in-out;
+}
+
+.info section.steps img {
+  width: 100%;
+  max-width: 450px;
+  border-radius: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .info .row {
+    flex-flow: column !important;
+  }
+  .info .steps .row.reverse .col:first-child {
+    order: 2;
+  }
+  .info .col {
+    text-align: center;
+  }
+}
+
+.info .step-icon {
+  padding-right: 1rem;
+  color: var(--color3);
+  transition: color 250ms ease-in-out;
+}
+
+.info [id*="step"] a {
+  text-decoration: none;
+  color: var(--textColor);
+  transition: color 250ms ease-in-out;
+}

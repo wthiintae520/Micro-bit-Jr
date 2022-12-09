@@ -1,0 +1,16 @@
+.modal-content {
+  overflow: hidden;
+}
+.modal-header {
+  color: var(--textColor);
+  background-color: var(--backgroundColor);
+  transition: background-color color 250ms ease-in-out;
+}
+.modal-body {
+  background-color: var(--backgroundColor);
+  transition: background-color 250ms ease-in-out;
+}
+.theme-name {
+  color: var(--textColor);
+  transition: color 250ms ease-in-out;
+}

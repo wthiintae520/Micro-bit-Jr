@@ -1,0 +1,148 @@
+const colorThemes = [
+    {
+        name: 'Light-1',
+        type: 'light',
+        colors: {
+            backgroundColor: '#EDEDED',
+            backgroundColor1: '#EFF5F5',
+            textColor: '#3D3C42',
+            color1: '#A6D1E6',
+            color2: '#F15412',
+            color3: '#3bb0ff',
+        },
+    },
+    {
+        name: 'Light-2',
+        type: 'light',
+        colors: {
+            backgroundColor: '#FFF8F3',
+            backgroundColor1: '#FAF7F0',
+            textColor: '#323232',
+            color1: '#A3E4DB',
+            color2: '#AC4425',
+            color3: '#1C6DD0',
+        },
+    },
+    {
+        name: 'Light-3',
+        type: 'light',
+        colors: {
+            backgroundColor: '#FFF7E9',
+            backgroundColor1: '#EDE4E0',
+            textColor: '#252525',
+            color1: '#FF731D',
+            color2: '#947EC3',
+            color3: '#1746A2',
+        },
+    },
+    {
+        name: 'Light-4',
+        type: 'light',
+        colors: {
+            backgroundColor: '#FBF8F1',
+            backgroundColor1: '#EDEDED',
+            textColor: '#0F0F0F',
+            color1: '#F7ECDE',
+            color2: '#54BAB9',
+            color3: '#ECB390',
+        },
+    },
+    {
+        name: 'Dark-1',
+        type: 'dark',
+        colors: {
+            backgroundColor: '#16213E',
+            backgroundColor1: '#404258',
+            textColor: '#ffffff',
+            color1: '#0F3460',
+            color2: '#F5EEDC',
+            color3: '#E94560',
+        },
+    },
+    {
+        name: 'Dark-2',
+        type: 'dark',
+        colors: {
+            backgroundColor: '#1B2430',
+            backgroundColor1: '#251B37',
+            textColor: '#EEEEEE',
+            color1: '#51557E',
+            color2: '#D6D5A8',
+            color3: '#E8EAE6',
+        },
+    },
+    {
+        name: 'Dark-3',
+        type: 'dark',
+        colors: {
+            backgroundColor: '#251B37',
+            backgroundColor1: '#100720',
+            textColor: '#FDFDFD',
+            color1: '#372948',
+            color2: '#FFCACA',
+            color3: '#FFECEF',
+        },
+    },
+    {
+        name: 'Dark-4',
+        type: 'dark',
+        colors: {
+            backgroundColor: '#000000',
+            backgroundColor1: '#100720',
+            textColor: '#EFEFEF',
+            color1: '#282A3A',
+            color2: '#D8AC9C',
+            color3: '#C69749',
+        },
+    },
+    {
+        name: 'Purple',
+        type: 'dark',
+        colors: {
+            backgroundColor: '#6A5495',
+            backgroundColor1: '#3B185F',
+            textColor: '#DDDDDD',
+            color1: '#ED5EDD',
+            color2: '#E7ED9B',
+            color3: '#8BDB81',
+        },
+    },
+    {
+        name: 'Red',
+        type: 'dark',
+        colors: {
+            backgroundColor: '#420516',
+            backgroundColor1: '#874356',
+            textColor: '#F7F7F7',
+            color1: '#7D1935',
+            color2: '#86C4BA',
+            color3: '#E63E6D',
+        },
+    },
+    {
+        name: 'Mint',
+        type: 'light',
+        colors: {
+            backgroundColor: '#BFFFF0',
+            backgroundColor1: '#2B4865',
+            textColor: '#251B37',
+            color1: '#F0FFC2',
+            color2: '#E84A5F',
+            color3: '#355764',
+        },
+    },
+    {
+        name: 'Orange',
+        type: 'light',
+        colors: {
+            backgroundColor: '#EA5C2B',
+            backgroundColor1: '#362222',
+            textColor: '#251B37',
+            color1: '#FF7F3F',
+            color2: '#D2EBCD',
+            color3: '#1B515E',
+        },
+    },
+];
+
+export default colorThemes;

@@ -1,0 +1,62 @@
+:root {
+  --block-height: 101px;
+}
+
+.block svg {
+  height: var(--block-height);
+}
+.block-body {
+  cursor: pointer;
+}
+
+.block-body.green svg > path:first-child {
+  fill: rgb(0, 255, 0);
+}
+.block-body.blue svg > path:first-child {
+  fill: blue;
+}
+.block-body.crimson svg > path:first-child {
+  fill: crimson;
+}
+.block-body.coral svg > path:first-child {
+  fill: coral;
+}
+.block-body.purple svg > path:first-child {
+  fill: purple;
+}
+
+.menu .label {
+  font-weight: 800;
+  font-size: 1.5rem;
+  user-select: none;
+}
+
+.menu .block {
+  margin: 0.5rem 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.block-body[data-status="none"] .border-path {
+  stroke-opacity: 0;
+}
+.block-body[data-status="hover"] .border-path {
+  stroke-opacity: 0.55;
+}
+.block-body[data-status="selected"] .border-path {
+  stroke-opacity: 0.65;
+}
+
+.blank-block {
+  position: absolute;
+  width: 0;
+  height: var(--block-height);
+}
+
+#menu {
+  flex: 30%;
+  padding: 1rem;
+  border-right: 1px dashed gray;
+}

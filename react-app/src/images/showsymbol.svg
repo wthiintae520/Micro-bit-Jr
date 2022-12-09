@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="229" height="105" viewBox="0 0 229 105" fill="none" xmlns="http://www.w3.org/2000/svg" xmlnsBx="https://boxy-svg.com">
+  <path d="M2 50.9158C2 72.4158 17.7732 71.4158 17.7732 81.9158V97.4158C17.7732 103.916 30.0604 101.986 33.5464 102.416L211.227 102.266C214.713 101.837 227 103.766 227 97.266V81.766C227 71.266 211.227 72.2659 211.227 50.7659C211.227 29.2659 227 31.7659 227 20.7659V7.26595C227 0.765946 211.185 2.11636 211.185 2.11636L33.5886 2.26616C27.1489 2.26616 17.7732 0.915748 17.7732 7.41575V20.9157C17.7732 31.9157 2 29.4158 2 50.9158Z" fill="#00FF50" stroke="#C2AF00" stroke-opacity="0.66" stroke-width="4"/>
+  <rect x="108" y="25" width="85" height="50" rx="10" fill="#D9D9D9"/>
+  <rect x="24.301" y="11.435" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="40.883" y="11.435" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="57.274" y="11.435" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="73.665" y="11.435" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="89.866" y="11.435" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="24.301" y="28.112" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="40.883" y="28.112" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="57.274" y="28.112" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="73.665" y="28.112" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="89.866" y="28.112" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="24.301" y="44.503" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="40.883" y="44.503" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="57.274" y="44.503" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="73.665" y="44.503" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="89.866" y="44.503" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="24.301" y="61.371" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="40.883" y="61.371" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="57.274" y="61.371" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="73.665" y="61.371" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="89.866" y="61.371" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="24.301" y="77.667" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="40.883" y="77.667" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="57.274" y="77.667" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="73.665" y="77.667" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <rect x="89.866" y="77.667" width="13.437" height="13.437" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);"/>
+  <path d="M 35.781 12.064 H 35.781 L 35.781 6.083 L 45.572 12.218 L 35.781 18.352 L 35.781 12.371 H 35.781 V 12.064 Z" style="stroke: rgb(8, 0, 255); fill: rgb(8, 0, 255);" transform="matrix(0, 1, -1, 0, 195.427414, 10.628375)" bxShape="arrow 35.781 6.083 9.791 12.269 0.307 9.791 0 1@10f1fee3"/>
+</svg>
